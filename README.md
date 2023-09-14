@@ -13,4 +13,4 @@ The code will give the analysis for each peak as it iterates through them, and t
 ## Errors
 If you are getting a sherrer analysis indicating a size that is unexpected, especially overly large, look through the individual peak outputs. One or two of the peaks may be giving innacurate sizes due to noise. Rerun the code removing those peaks, and see if your result is more accurate. 
 
-Otherwise contact me and I will fix:) ty
+Otherwise contact me and I will fix :) ty
